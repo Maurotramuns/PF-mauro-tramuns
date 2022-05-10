@@ -20,6 +20,32 @@ header{
     
 }
 
+
+
+
+/* Ultimos releases */
+#worlds-unseen{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#endless-road{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#set{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+/* FINAL Ultimos releases */
+
+
+
+
 .barranegra{
     padding: 30px;
     background-color: #060606;
@@ -31,11 +57,14 @@ header{
     text-align: center;
 }
 
+
+
+
+
 /* Estilos del FOOTER */
 footer{
     background-color: rgb(70, 65, 65);
 }
-
 
 
 .redes ul{
@@ -51,13 +80,15 @@ footer{
     color: rgb(142, 140, 143);
 }
 
-
 .textofooter{
 display: flexbox;
 justify-content: flex-end;
 align-items: center;
     
 }
+
+
+
 
 /* BIOGRAFIA */
 
@@ -77,6 +108,10 @@ align-items: center;
     color: aliceblue;
     text-align: left;
 }
+
+
+
+
 
 /* DISCOGRAFIA */
 
@@ -103,6 +138,9 @@ align-items: center;
     text-align: center;
     color: whitesmoke
 }
+
+
+
 
 
 /* EVENTOS */
@@ -146,10 +184,10 @@ align-items: center;
     grid-area: agosto;
 }
 
-
 .botoncompra{
     justify-content: center;
 }
+
 
 
 
@@ -170,8 +208,6 @@ align-items: center;
 .formulariocontacto{
     color: whitesmoke;
 }
-
-
 
 
 
